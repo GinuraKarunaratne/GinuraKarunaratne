@@ -34,6 +34,3 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ginurakarunaratne&hide_border=true&background=01050D&ring=A23900&fire=ff5900&currStreakNum=ff5900&currStreakLabel=ffffff&sideNums=ff5900&sideLabels=ffffff&dates=ffffff)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
