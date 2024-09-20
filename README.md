@@ -32,5 +32,5 @@
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-
+<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ginurakarunaratne&hide_border=true&background=01050D&ring=A23900&fire=ff5900&currStreakNum=ff5900&currStreakLabel=ffffff&sideNums=ff5900&sideLabels=ffffff&dates=ffffff)
