@@ -39,5 +39,5 @@
 <br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ginurakarunaratne&hide_border=true&background=4D1B00&ring=D45009&fire=ff5900&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ginurakarunaratne&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15&title=Stars,Followers,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ginurakarunaratne&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
