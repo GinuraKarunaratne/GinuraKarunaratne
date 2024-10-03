@@ -35,7 +35,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%23ED8B00.svg?style=flat&logo=gradle&logoColor=white&color=green)
-![Postman](https://img.shields.io/badge/Postman-%23ED8B00.svg?style=flat&logo=postman&logoColor=green&labelColor=white&color=white)
+![Postman](https://img.shields.io/badge/Postman-%23ED8B00.svg?style=flat&logo=postman&logoColor=greenlabelColor=white&color=white)
 
 <br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ginurakarunaratne&hide_border=true&background=4D1B00&ring=D45009&fire=ff5900&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
